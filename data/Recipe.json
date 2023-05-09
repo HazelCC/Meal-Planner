@@ -1,0 +1,50 @@
+{
+    "carbohydrate mass": 31.88,
+    "Ingredients": [
+        {
+            "protein level": 13,
+            "mass": 100,
+            "name": "apple",
+            "fat level": 1,
+            "ingredient nutrition": [
+                12,
+                13,
+                1
+            ],
+            "carbohydrate level": 12
+        },
+        {
+            "protein level": 1,
+            "mass": 12,
+            "name": "pear",
+            "fat level": 1,
+            "ingredient nutrition": [
+                1.68,
+                0.12,
+                0.12
+            ],
+            "carbohydrate level": 14
+        },
+        {
+            "protein level": 13,
+            "mass": 140,
+            "name": "chicken",
+            "fat level": 13,
+            "ingredient nutrition": [
+                18.2,
+                18.2,
+                18.2
+            ],
+            "carbohydrate level": 13
+        }
+    ],
+    "fat mass": 19.32,
+    "name": "MyRecipe",
+    "procedure": "Empty",
+    "protein mass": 31.32,
+    "Recipe Nutrition": [
+        32,
+        31,
+        19
+    ]
+}

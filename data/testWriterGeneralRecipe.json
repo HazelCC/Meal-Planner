@@ -1,0 +1,38 @@
+{
+    "carbohydrate mass": 6,
+    "Ingredients": [
+        {
+            "protein level": 20,
+            "mass": 200,
+            "name": "beef",
+            "fat level": 4,
+            "ingredient nutrition": [
+                4,
+                40,
+                8
+            ],
+            "carbohydrate level": 2
+        },
+        {
+            "protein level": 20,
+            "mass": 100,
+            "name": "lamb",
+            "fat level": 4,
+            "ingredient nutrition": [
+                2,
+                20,
+                4
+            ],
+            "carbohydrate level": 2
+        }
+    ],
+    "fat mass": 12,
+    "name": "beefAndLamb",
+    "procedure": "cook procedure",
+    "protein mass": 60,
+    "Recipe Nutrition": [
+        6,
+        60,
+        12
+    ]
+}
